@@ -11,7 +11,7 @@ description: CAN SLIM 选股技能，方法论抽象自威廉·欧奈尔《笑�
 - CAN SLIM 是**基本面（盈利）+ 动量（价格/机构）+ 市场环境**三者结合的成长股选股法，历史回测在美股牛股上表现突出。
 - **声明**：本技能提供的是选股**框架与体检清单**，**非投资建议，不荐股、不给买卖点承诺**。A 股与美股市场结构、信息披露、机构行为存在差异，应用时需自行校准。市场有风险。
 - 本技能**数据层依赖同花顺问财**：需先安装并配置好 `hithink-finance-query` / `hithink-market-query` / `hithink-zhishu-query` 三个 skill，并在环境中设置 `IWENCAI_API_KEY`。
-- 详细阈值与原书要点见 `references/canslim-deep-dive.md`；问财 query 模板与字段缺口见 `references/iwencai-query-templates.md`。
+- 详细阈值与原书要点见 `references/canslim-deep-dive.md`；问财 query 模板与字段缺口见 `references/iwencai-query-templates.md`；真实标的的完整体检范例见 `references/case-study-20261005-songfa.md`（松发股份·含新判据的判定经验）。
 
 ---
 

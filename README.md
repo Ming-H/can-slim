@@ -55,8 +55,9 @@ can-slim/
 ├── SKILL.md                         # 主入口：方法论 + 选股工作流 + 问财对接
 ├── scripts/canslim_screener.py      # 轻量取数汇总脚本
 ├── references/
-│   ├── canslim-deep-dive.md         # 七要素详细标准与执行纪律
-│   └── iwencai-query-templates.md   # 问财 query 模板库与字段缺口
+│   ├── canslim-deep-dive.md         # 七要素详细标准与执行纪律（严格对照原书）
+│   ├── iwencai-query-templates.md   # 问财 query 模板库（含实测可用问法与避坑）
+│   └── case-study-20261005-songfa.md # 实测案例：新判据在真实标的上的判定范例
 ├── README.md
 └── LICENSE
 ```
